@@ -1,5 +1,9 @@
 The EPFL first course project is made up of five tasks A to E:  They are located on MASTER Branch.
 
+All this content was submitted on:
+
+https://github.com/epfl-extension-school/project-adsml-ibex-c1-s11-8326-4482
+
 A. An overview of the dataset
 
 B. Exploration: numerical summaries, indexing and grouping
