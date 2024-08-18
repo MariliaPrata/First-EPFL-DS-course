@@ -14,6 +14,7 @@ E. Matrices
 Project Structure:
 Repository/
 ├── p1_communes.csv
+
 └── communes_solution.ipynb 
 
 My impressions as a non-coder beginner: that was my longer Notebook, indexing many times required fixing (aka reading the same csv multiple times).
