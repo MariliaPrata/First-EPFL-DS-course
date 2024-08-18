@@ -1,4 +1,4 @@
-The EPFL first course project is made up of five tasks A to E:
+The EPFL first course project is made up of five tasks A to E:  They are located on Master Branch.
 
 A. An overview of the dataset
 
