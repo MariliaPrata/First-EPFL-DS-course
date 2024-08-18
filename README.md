@@ -1,9 +1,13 @@
 The EPFL first course project is made up of five tasks A to E:
 
 A. An overview of the dataset
+
 B. Exploration: numerical summaries, indexing and grouping
+
 C. Exploration: visualizations
+
 D. Probabilities
+
 E. Matrices
 
 
